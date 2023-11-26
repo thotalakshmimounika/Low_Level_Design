@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56dd415c-8959-4da6-9929-f84dc0adfc9f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP concepts InJAVA/src/Inheritance/Assignments/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP concepts InJAVA/src/Inheritance/Assignments/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP concepts InJAVA/src/Inheritance/Assignments/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP concepts InJAVA/src/Inheritance/Assignments/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP concepts InJAVA/src/Interface/Assisgnments/LoopableClassNode/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP concepts InJAVA/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP concepts InJAVA/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP concepts InJAVA/src/Interface/Assisgnments/LoopableclassNode/Loop.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +26,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -32,15 +37,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/lakshmimounika.thota/OneDrive - Accenture/Desktop/Scaler/LowLevelDesignConcepts/OOP concepts InJAVA",
-    "onboarding.tips.debug.path": "C:/Users/lakshmimounika.thota/OneDrive - Accenture/Desktop/Scaler/LowLevelDesignConcepts/Threads/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/lakshmimounika.thota/OneDrive - Accenture/Desktop/Scaler/LowLevelDesignConcepts/OOP concepts InJAVA&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/lakshmimounika.thota/OneDrive - Accenture/Desktop/Scaler/LowLevelDesignConcepts/Threads/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Synchronization.AdderSubractorMutex.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Synchronization.AdderSubractor.Client" />
